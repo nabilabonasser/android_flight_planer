@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">مخطط الرحلات</string>
+    <string name="search_title">ابحث عن رحلات إلى دمشق والمطارات القريبة (بيروت، عمّان، حلب)</string>
+    <string name="origin_label">مطار الانطلاق (IATA) أو المدينة</string>
+    <string name="departure_date_label">تاريخ الذهاب (YYYY-MM-DD)</string>
+    <string name="return_date_label">تاريخ العودة (YYYY-MM-DD)</string>
+    <string name="search_portals">ابحث في بوابات السفر</string>
+    <string name="one_way">ذهاب فقط</string>
+    <string name="round_trip">ذهاب وعودة</string>
+    <string name="adults">البالغون</string>
+    <string name="children_0_2">الأطفال من 0 إلى 2 سنة</string>
+    <string name="children_2_12">الأطفال من 2 إلى 12 سنة</string>
+    <string name="flight_preference">تفضيل الرحلة</string>
+    <string name="tap_to_continue">اضغط للمتابعة في بوابة الحجز</string>
+    <string name="preference_any">أي خيار</string>
+    <string name="preference_direct_only">مباشرة فقط</string>
+    <string name="preference_transit_allowed">مع الترانزيت مسموح</string>
+    <string name="invalid_values_error">يرجى إدخال قيم صحيحة (صيغة التاريخ: YYYY-MM-DD).</string>
+    <string name="no_flights_error">لم يتم العثور على رحلات. جرّب مدينة/مطار انطلاق آخر.</string>
+    <string name="deal_stops_line">%1$s • عدد التوقفات: %2$d</string>
+</resources>
